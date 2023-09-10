@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://varsharani9.github.io/Greet-App/static/css/main.073c9b0a.css",
+    "main.js": "https://varsharani9.github.io/Greet-App/static/js/main.c0bc4dca.js",
+    "static/js/787.0823a191.chunk.js": "https://varsharani9.github.io/Greet-App/static/js/787.0823a191.chunk.js",
+    "index.html": "https://varsharani9.github.io/Greet-App/index.html",
+    "main.073c9b0a.css.map": "https://varsharani9.github.io/Greet-App/static/css/main.073c9b0a.css.map",
+    "main.c0bc4dca.js.map": "https://varsharani9.github.io/Greet-App/static/js/main.c0bc4dca.js.map",
+    "787.0823a191.chunk.js.map": "https://varsharani9.github.io/Greet-App/static/js/787.0823a191.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c0bc4dca.js"
+  ]
+}
